@@ -1,0 +1,19 @@
+{
+  "name": "prova-rapier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/example/pinball/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dimforge/rapier2d-compat": "^0.11.2",
+    "@dimforge/rapier3d-compat": "^0.11.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
